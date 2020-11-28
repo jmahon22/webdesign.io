@@ -1,0 +1,126 @@
+/* Navbar */
+.container.navbar {
+  overflow: visible;
+}
+
+a.navbar-brand {
+  margin-left: 40px;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-size: 20px ;
+  height: 60px;
+}
+
+.nav-item.dropdown.show {
+  background-color: rgb(5, 58, 58);
+}
+
+.dropdown-menu {
+  margin: 0;
+  overflow: visible;
+}
+
+/* Background */
+
+body{
+  background-color: #a71414;
+}
+
+/*Landing page*/
+
+.container {
+  margin-top: 50px;
+  margin-bottom: 60px;
+  padding: 15px 65px 30px; 
+  color: #213159;
+  background-color: white;
+  border: 20px;
+  font-size: 15px
+}
+
+.summary {
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+/* Headers  */
+h2 {
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(5, 58, 58);
+  font-size: 20px;
+}
+
+h3 {
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(5, 58, 58);
+  font-size: 20px;
+}
+
+h4 {
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(5, 58, 58);
+  font-size: 20px;
+}
+
+h5 {
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(5, 58, 58);
+  font-size: 20px;
+}
+
+/* Paragraphs */
+
+p {
+  display: inline;
+  font-size: 18px;
+  color: rgb(5, 58, 58);
+}
+
+/* Plot Pages */
+.Temperature {
+  align-items: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  color: #213159;
+  background-color: white;
+}
+
+.Humidity {
+  align-items: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  color: #213159;
+  background-color: white;
+}
+
+.Cloudiness {
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    color: #213159;
+    background-color: white;
+  }
+
+.Windspeed {
+  align-items: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  color: #213159;
+  background-color: white;
+}
